@@ -1,5 +1,5 @@
 function crearMesa() {
-  alert("Mesa privada creada (simulación)");
+  alert("Mesa privada creada.\nCódigo: TRUCO123");
 }
 
 function entrarMesa() {
