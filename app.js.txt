@@ -1,0 +1,10 @@
+function crearMesa() {
+  alert("Mesa privada creada (simulación)");
+}
+
+function entrarMesa() {
+  const codigo = prompt("Ingresá el código de la mesa:");
+  if (codigo) {
+    alert("Entrando a la mesa: " + codigo);
+  }
+}
